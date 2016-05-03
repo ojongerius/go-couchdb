@@ -1,5 +1,4 @@
-[![Build
-status](https://travis-ci.org/ojongerius/go-couchdb.svg)](https://travis-ci.org/ojongerius/go-couchdb)
+[![Build status](https://travis-ci.org/ojongerius/go-couchdb.svg)](https://travis-ci.org/ojongerius/go-couchdb)
 
 # What's this?
 
@@ -37,5 +36,3 @@ e.g. fetching values from the CouchDB config.
 # Tests
 
 You can run the unit tests with `go test`.
-
-[![Build Status](https://travis-ci.org/fjl/go-couchdb.png?branch=master)](https://travis-ci.org/fjl/go-couchdb)
