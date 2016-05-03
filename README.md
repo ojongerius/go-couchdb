@@ -1,3 +1,6 @@
+[![Build
+status](https://travis-ci.org/ojongerius/go-couchdb.svg)](https://travis-ci.org/ojongerius/go-couchdb)
+
 # What's this?
 
 go-couchdb is yet another CouchDB client written in Go.
